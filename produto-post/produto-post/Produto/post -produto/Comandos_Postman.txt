@@ -1,0 +1,12 @@
+------------POST-----------
+http://127.0.0.1:5000/Produto
+---------------------------
+
+Body - raw - JSON
+
+{
+  "nome": "Notebook gamer",
+  "categoria": "tecnologia",
+  "preço": R$6583
+}
+
